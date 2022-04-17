@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.208" height="35.207" viewBox="0 0 35.208 35.207">
+  <defs>
+    <style>
+      #Grupo_2873:hover #Trazado_3975{
+         fill: #FFFFFF;
+      }
+      #Grupo_2873:hover #Grupo_2872 #Rectángulo_297,
+      #Grupo_2873:hover #Grupo_2872 #Trazado_3976 ,
+      #Grupo_2873:hover #Grupo_2872 #Trazado_3977{
+         fill: #00AFFF;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_2874" data-name="Grupo 2874" transform="translate(-510.332 -4095.756)">
+    <g id="Grupo_2871" data-name="Grupo 2871">
+      <path id="Trazado_3974" data-name="Trazado 3974" d="M545.04,4113.359a17.1,17.1,0,1,0-17.1,17.1A17.1,17.1,0,0,0,545.04,4113.359Z" fill="none"/>
+    </g>
+    <g id="Grupo_2873" data-name="Grupo 2873">
+      <path id="Trazado_3975" data-name="Trazado 3975" d="M545.04,4113.359a17.1,17.1,0,1,0-17.1,17.1A17.1,17.1,0,0,0,545.04,4113.359Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Grupo_2872" data-name="Grupo 2872">
+        <rect id="Rectángulo_297" data-name="Rectángulo 297" width="3.959" height="11.315" transform="translate(519.793 4109.185)" fill="#fff"/>
+        <path id="Trazado_3976" data-name="Trazado 3976" d="M521.772,4103.528a1.981,1.981,0,1,0,1.98,1.979A1.982,1.982,0,0,0,521.772,4103.528Z" fill="#fff"/>
+        <path id="Trazado_3977" data-name="Trazado 3977" d="M536.764,4112.661c-.266-2.133-1.333-3.476-4.216-3.476-2.046,0-2.859.319-3.329,1.212h0v-1.212h-3.205V4120.5h3.3v-5.923c0-1.478.28-2.6,2.108-2.6,1.8,0,1.947,1.374,1.947,2.691v5.827h3.4S536.827,4113.16,536.764,4112.661Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

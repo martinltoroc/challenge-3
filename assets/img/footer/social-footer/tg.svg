@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.207" height="35.207" viewBox="0 0 35.207 35.207">
+  <defs>
+    <style>
+      #Grupo_2889:hover #Grupo_2888 #Trazado_3991{
+         fill: #FFFFFF;
+      }
+       
+      #Grupo_2889:hover #Grupo_2888 #Grupo_2887 #Línea_236,
+      #Grupo_2889:hover #Grupo_2888 #Grupo_2887 #Trazado_3992,
+      #Grupo_2889:hover #Grupo_2888 #Grupo_2887 #Trazado_3993      
+      {
+         fill: #00AFFF;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_2889" data-name="Grupo 2889" transform="translate(-678.425 -4095.756)">
+    <g id="Grupo_2886" data-name="Grupo 2886">
+      <path id="Trazado_3990" data-name="Trazado 3990" d="M713.132,4113.359a17.1,17.1,0,1,0-17.1,17.1A17.1,17.1,0,0,0,713.132,4113.359Z" fill="none"/>
+    </g>
+    <g id="Grupo_2888" data-name="Grupo 2888">
+      <path id="Trazado_3991" data-name="Trazado 3991" d="M713.132,4113.359a17.1,17.1,0,1,0-17.1,17.1A17.1,17.1,0,0,0,713.132,4113.359Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Grupo_2887" data-name="Grupo 2887">
+        <line id="Línea_236" data-name="Línea 236" x2="1.901" y2="5.132" transform="translate(690.604 4114.872)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Trazado_3992" data-name="Trazado 3992" d="M692.722,4115.823l-.19,4.236,2.726-2.312Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Trazado_3993" data-name="Trazado 3993" d="M703.453,4105.721l-17.341,6.589a.558.558,0,0,0,.02,1.051l4.472,1.511,10.182-6.116-8.064,7.067,6.278,4.764a1.142,1.142,0,0,0,1.8-.633l3.394-13.576A.558.558,0,0,0,703.453,4105.721Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

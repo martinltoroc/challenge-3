@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.25" height="35.253" viewBox="0 0 35.25 35.253">
+  <defs>
+    <style>
+      #Grupo_2882:hover #Grupo_2881 #Trazado_3982{
+         fill: #FFFFFF;
+      }
+      #Grupo_2882:hover #Grupo_2881 #Grupo_2880 #Trazado_3983,
+      #Grupo_2882:hover #Grupo_2881 #Grupo_2880 #Trazado_3985,
+      #Grupo_2882:hover #Grupo_2881 #Grupo_2880 #Grupo_2879 #Trazado_3984
+      {
+         fill: #00AFFF;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_2882" data-name="Grupo 2882" transform="translate(-622.318 -4095.733)">
+    <g id="Grupo_2878" data-name="Grupo 2878">
+      <path id="Trazado_3981" data-name="Trazado 3981" d="M639.943,4096.233a17.126,17.126,0,1,0,17.125,17.128A17.127,17.127,0,0,0,639.943,4096.233Z" fill="none"/>
+    </g>
+    <g id="Grupo_2881" data-name="Grupo 2881">
+      <path id="Trazado_3982" data-name="Trazado 3982" d="M639.943,4096.233a17.126,17.126,0,1,0,17.125,17.128A17.127,17.127,0,0,0,639.943,4096.233Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Grupo_2880" data-name="Grupo 2880">
+        <path id="Trazado_3983" data-name="Trazado 3983" d="M635.042,4121.667Zm9.8-17.358h0Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+        <g id="Grupo_2879" data-name="Grupo 2879">
+          <path id="Trazado_3984" data-name="Trazado 3984" d="M639.943,4119.474a6.115,6.115,0,1,0-6.116-6.113A6.122,6.122,0,0,0,639.943,4119.474Zm-4.632-6.113a4.632,4.632,0,1,1,4.632,4.633A4.64,4.64,0,0,1,635.311,4113.361Z" fill="#fff"/>
+        </g>
+        <path id="Trazado_3985" data-name="Trazado 3985" d="M646.042,4123.518h-12.2a4.157,4.157,0,0,1-4.152-4.152v-12.013a4.156,4.156,0,0,1,4.152-4.151h12.2a4.156,4.156,0,0,1,4.152,4.151v12.013A4.157,4.157,0,0,1,646.042,4123.518Zm-12.2-18.8a2.64,2.64,0,0,0-2.637,2.637v12.013a2.64,2.64,0,0,0,2.637,2.637h12.2a2.64,2.64,0,0,0,2.637-2.637v-12.013a2.64,2.64,0,0,0-2.637-2.637Z" fill="#fff"/>
+      </g>
+      <path id="Trazado_3986" data-name="Trazado 3986" d="M646.142,4106.547a.965.965,0,1,0,.966.966A.967.967,0,0,0,646.142,4106.547Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

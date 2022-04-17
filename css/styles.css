@@ -262,3 +262,105 @@ nav{
 #see-more-btn:hover{
     background-color: #00CFFF;
 }
+
+/*  Footer  */
+footer hr{
+    margin-left: 6em;
+    width: 65%;
+}
+.container-tfo{
+    background-color: #211748;
+    height: 42vh;
+}
+.top-footer{
+    display: flex;
+    justify-content: space-around;
+    padding: 3.2em 0em 2em 0em;
+}
+
+/* TOP - left footer */
+.top-left--fo{
+    width: 18%;
+}
+.top-left--fo img{
+    width: 140px;
+    height: 30px;
+}
+
+/* TOP - right footer */
+.top-right--fo{
+    width: 50%;
+}
+.top-right--fo ul{
+    display: flex;
+    list-style: none;
+}
+.top-right--fo li{
+    padding-right: 1em;
+}
+.top-right--fo img{
+    border-radius: 1em;
+}
+.top-right--fo img:hover{
+    background-color: #0077B5;
+}
+
+/*  BOTTOM  */
+.bottom-footer{
+    display: flex;
+    margin-left: 8em;
+    margin-top: 2.7em;
+    width: 80%;
+}
+/* BOTTOM - left footer */
+.bottom-left-foo {
+    width: 39%;
+}
+.bottom-left-foo img{
+    width: 160px;
+    height: 160px;
+}
+
+
+/* BOTTOM - Right footer */
+.lists{
+    display: flex;
+}
+.lists ul{
+    list-style: none;
+    margin-right: 3em;
+}
+.lists ul li{
+    padding-bottom: 1em;
+}
+.lists ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.list ul li a i{
+    color: #fff;
+}
+
+/*  COPY Side  */
+.copy-side{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 6vh;
+}
+.copy-left p{
+    font-size: 12px;
+    color: black;
+}
+.copy-list ul{
+    list-style: none;
+    display: flex;
+}
+.copy-list ul li{
+    padding-right: 1.3em;
+}
+.copy-list ul a{
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
